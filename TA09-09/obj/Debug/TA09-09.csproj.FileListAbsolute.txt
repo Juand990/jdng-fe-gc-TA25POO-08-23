@@ -1,0 +1,7 @@
+E:\VS Proyectos\TA09-09\bin\Debug\TA09-09.exe.config
+E:\VS Proyectos\TA09-09\bin\Debug\TA09-09.exe
+E:\VS Proyectos\TA09-09\bin\Debug\TA09-09.pdb
+E:\VS Proyectos\TA09-09\obj\Debug\TA09-09.csproj.AssemblyReference.cache
+E:\VS Proyectos\TA09-09\obj\Debug\TA09-09.csproj.CoreCompileInputs.cache
+E:\VS Proyectos\TA09-09\obj\Debug\TA09-09.exe
+E:\VS Proyectos\TA09-09\obj\Debug\TA09-09.pdb

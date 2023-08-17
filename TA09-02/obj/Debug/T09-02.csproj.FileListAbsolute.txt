@@ -1,0 +1,14 @@
+E:\VS Proyectos\T09-02\bin\Debug\T09-02.exe.config
+E:\VS Proyectos\T09-02\bin\Debug\T09-02.exe
+E:\VS Proyectos\T09-02\bin\Debug\T09-02.pdb
+E:\VS Proyectos\T09-02\obj\Debug\T09-02.csproj.AssemblyReference.cache
+E:\VS Proyectos\T09-02\obj\Debug\T09-02.csproj.CoreCompileInputs.cache
+E:\VS Proyectos\T09-02\obj\Debug\T09-02.exe
+E:\VS Proyectos\T09-02\obj\Debug\T09-02.pdb
+E:\JuanD\BootcampFEGC\C4 - Desenvolupament orientat a objectes amb .NET\jdng-fe-gc-TA25POO-08-23\TA09-02\bin\Debug\T09-02.exe.config
+E:\JuanD\BootcampFEGC\C4 - Desenvolupament orientat a objectes amb .NET\jdng-fe-gc-TA25POO-08-23\TA09-02\bin\Debug\T09-02.exe
+E:\JuanD\BootcampFEGC\C4 - Desenvolupament orientat a objectes amb .NET\jdng-fe-gc-TA25POO-08-23\TA09-02\bin\Debug\T09-02.pdb
+E:\JuanD\BootcampFEGC\C4 - Desenvolupament orientat a objectes amb .NET\jdng-fe-gc-TA25POO-08-23\TA09-02\obj\Debug\T09-02.csproj.AssemblyReference.cache
+E:\JuanD\BootcampFEGC\C4 - Desenvolupament orientat a objectes amb .NET\jdng-fe-gc-TA25POO-08-23\TA09-02\obj\Debug\T09-02.csproj.CoreCompileInputs.cache
+E:\JuanD\BootcampFEGC\C4 - Desenvolupament orientat a objectes amb .NET\jdng-fe-gc-TA25POO-08-23\TA09-02\obj\Debug\T09-02.exe
+E:\JuanD\BootcampFEGC\C4 - Desenvolupament orientat a objectes amb .NET\jdng-fe-gc-TA25POO-08-23\TA09-02\obj\Debug\T09-02.pdb
